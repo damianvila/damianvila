@@ -12,6 +12,5 @@ Well, now that you're here, maybe you'd like to know a few things about me?
 - :mag: I'm a very curious person, and passionate about my interests.
 
 I have a website at: [https://damianvila.com](https://damianvila.com).  
-Nothing fancy, just a simple retro page that looks like an old home computer ad.
 
 Thanks for visiting. Hope to see you again!
