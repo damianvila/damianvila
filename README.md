@@ -3,7 +3,7 @@
 I was not expecting you!
 Well, now that you're here, maybe you'd like to know a few things about me?
 
-- :art: I'm a Designer, not a Programmer.
+- :art: I'm a Designer (but also a Developer).
 - :es: I live in Madrid, Spain.
 - :boy: I have a son.
 - :guitar: I play guitar (but I'm not that good at it.)
