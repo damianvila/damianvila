@@ -4,7 +4,7 @@ I was not expecting you!
 Well, now that you're here, maybe you'd like to know a few things about me?
 
 - :art: I'm a Designer.
-- :es: I live in Madrid, Spain.
+- :es: I live in Alovera, Guadalajara, Spain.
 - :boy: I have a son.
 - :guitar: I play guitar (but I'm not that good at it.)
 - :video_game: I love video games (but I don't play often.)
