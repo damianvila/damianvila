@@ -15,6 +15,6 @@ Well, now that you're here, maybe you'd like to know a few things about me?
 Some of my hobbies are found on **Vila Industries**: [https://vilaindustries.com](https://vilaindustries.com).  
 
 > [!IMPORTANT]
-> I'm hosting most of my projects in [Codeberg](https://codeberg.org/Dmian) now. See you there!
+> I'm now hosting my projects in [Codeberg](https://codeberg.org/Dmian). See you there!
 
 Thanks for visiting. Hope to see you again!
